@@ -190,7 +190,7 @@ var cartaDestrutor = {
 
 var cartaGambit = {
     nome: "Gambit",
-    imagem: "https://kanto.legiaodosherois.com.br/w760-h398-cfill/wp-content/uploads/2019/12/legiao_vRnjAaYHEhdlK2OsyF8VrGCtf3S7Mq4mw1N6QPzp9e.jpg.jpeg",
+    imagem: "https://http2.mlstatic.com/D_NQ_NP_886720-MLB28012474182_082018-O.jpg",
     atributos: {
         ataque: 70,
         defesa: 60,
