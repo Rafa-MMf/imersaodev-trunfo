@@ -100,7 +100,7 @@ var cartaGelo = {
 
 var cartaDinamite = {
     nome: "Dinamite",
-    imagem: "https://lh3.googleusercontent.com/proxy/dy89flKduaJNlBBD0gRNRYs_qXc8lY5gPhXnUeNqiVER7AVhgwEs5Xz7r2-OPOHKPDrhGzoVFWtOuVTEW5_MI6J8eLh6rS9sgbcel1m5HoyVA4O7IHO9mUzX10fh3J0ESUGLiQ1B-Q",
+    imagem: "https://static.wikia.nocookie.net/xmen-comics/images/b/bd/Dinamita_%28Tabitha_Smith%29_%28Terra-616%29_da_Capa_de_New_Mutants_Vol_4_4.jpg/revision/latest?cb=20200625020516&path-prefix=pt-br",
     atributos: {
         ataque: 70,
         defesa: 60,
@@ -110,7 +110,7 @@ var cartaDinamite = {
 
 var cartaMancha = {
     nome: "Mancha Solar",
-    imagem: "https://lh3.googleusercontent.com/proxy/8Q_Xs57_bDztL8HYPPfohTHMl_JJeFTp87_6LRl9S8ThS6jELaGd3FhARuyaKCj5yf9p1gHBRbp1gd92A5pdA4mG_sbRvOYq0wMtm9k0G3OBPurXDyqog9t6wYv-JNv7U5UClE4BsQ",
+    imagem: "https://lh3.googleusercontent.com/proxy/AT1ESIRC3X7kohBDcLVcdKU1P2fiVgFym2xc0KkDJl05MmWIrQupsYLfOP5kNc_-GLzrr6hIBcqy8Kqr5dVSFiJ__xos8Uqd214udU1z001IA-vQ_kFxaUhXypI4HcJu6Sv5viXkTw",
     atributos: {
         ataque: 80,
         defesa: 60,
@@ -190,7 +190,7 @@ var cartaDestrutor = {
 
 var cartaGambit = {
     nome: "Gambit",
-    imagem: "https://static.wikia.nocookie.net/xmen-comics/images/0/0c/Excalibur_Vol_4_2_Parrillo_Virgin_Variant.jpg/revision/latest?cb=20200425151250&path-prefix=pt-br",
+    imagem: "https://static.wikia.nocookie.net/xmen-comics/images/0/0c/Excalibur_Vol_4_2_Parrillo_Virgin_Variant.jpg/revision/latest?cb=20200425151250&path-prefix=pt-br.jpg",
     atributos: {
         ataque: 70,
         defesa: 60,
