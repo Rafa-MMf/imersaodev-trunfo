@@ -90,7 +90,7 @@ var cartaWolverine = {
 
 var cartaGelo = {
     nome: "Homem de Gelo",
-    imagem: "https://static.wikia.nocookie.net/xmen-comics/images/8/86/Astonishing_X-Men_Annual_Vol_2_1_Hyung_Variant_Textless.jpg/revision/latest?cb=20200425153756&path-prefix=pt-br",
+    imagem: "http://pm1.narvii.com/6469/0e56e831a8768f2f40631dd683fbbbe067398f90_00.jpg",
     atributos: {
         ataque: 100,
         defesa: 30,
@@ -100,7 +100,7 @@ var cartaGelo = {
 
 var cartaDinamite = {
     nome: "Dinamite",
-    imagem: "https://static.wikia.nocookie.net/xmen-comics/images/b/bd/Dinamita_%28Tabitha_Smith%29_%28Terra-616%29_da_Capa_de_New_Mutants_Vol_4_4.jpg/revision/latest?cb=20200625020516&path-prefix=pt-br",
+    imagem: "https://comicvine.gamespot.com/a/uploads/scale_medium/9/96747/7117528-14.jpg",
     atributos: {
         ataque: 70,
         defesa: 60,
@@ -110,7 +110,7 @@ var cartaDinamite = {
 
 var cartaMancha = {
     nome: "Mancha Solar",
-    imagem: "https://lh3.googleusercontent.com/proxy/AT1ESIRC3X7kohBDcLVcdKU1P2fiVgFym2xc0KkDJl05MmWIrQupsYLfOP5kNc_-GLzrr6hIBcqy8Kqr5dVSFiJ__xos8Uqd214udU1z001IA-vQ_kFxaUhXypI4HcJu6Sv5viXkTw",
+    imagem: "https://1.bp.blogspot.com/-5sZMfCqn0lE/Xx3M_8YxW5I/AAAAAAABBdI/aE5Uin-xqtEzvwe8R-M4M69p6iNnMvPiACLcBGAsYHQ/s1600/Mancha%2BSolar%2B01.jpg",
     atributos: {
         ataque: 80,
         defesa: 60,
@@ -130,7 +130,7 @@ var cartaMagneto = {
 
 var cartaDentes = {
     nome: "Dentes de Sabre",
-    imagem: "https://lh3.googleusercontent.com/proxy/L9llUx4OYAWCGJ7yMS-0N5IRfDrR64x_2N50tdXBx-9W6Al-q-THB4qT3Gmhf4x2YCNoecFny8_m0pOyXr70xmuPw5qLs-gHrQFuvHjZtoZschsX8zTwL5NfHeFtPjJU2J3jA3jXkQ",
+    imagem: "https://upload.wikimedia.org/wikipedia/pt/b/b4/Dentes-de-Sabre_%28Marvel_Comics%29.jpg",
     atributos: {
         ataque: 80,
         defesa: 80,
@@ -150,7 +150,7 @@ var cartaColossus  = {
 
 var cartaMistica = {
     nome: "Mística",
-    imagem: "https://static.wikia.nocookie.net/xmen-comics/images/9/9d/X-Men_Vol_5_4_Maer_Virgin_Variant.jpg/revision/latest?cb=20200607142914&path-prefix=pt-br",
+    imagem: "https://www.hqzona.com.br/wp-content/uploads/2018/05/tumblr_ozu1fjSoat1v2hoyno1_1280.jpg",
     atributos: {
         ataque: 50,
         defesa: 85,
@@ -190,7 +190,7 @@ var cartaDestrutor = {
 
 var cartaGambit = {
     nome: "Gambit",
-    imagem: "https://static.wikia.nocookie.net/xmen-comics/images/0/0c/Excalibur_Vol_4_2_Parrillo_Virgin_Variant.jpg/revision/latest?cb=20200425151250&path-prefix=pt-br.jpg",
+    imagem: "https://kanto.legiaodosherois.com.br/w760-h398-cfill/wp-content/uploads/2019/12/legiao_vRnjAaYHEhdlK2OsyF8VrGCtf3S7Mq4mw1N6QPzp9e.jpg.jpeg",
     atributos: {
         ataque: 70,
         defesa: 60,
